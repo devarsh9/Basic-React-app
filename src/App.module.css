@@ -1,0 +1,23 @@
+.topBar {
+  background-color: #282c34;
+  padding: 24px 48px 12px;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.topBar > img {
+  width: 100px;
+}
+.MainContainer {
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.ProductData {
+  width: 50%;
+}
